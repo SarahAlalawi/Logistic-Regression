@@ -1,1 +1,2 @@
 # Logistic Regression
+I built classification models which are logistic regressions to predict the quality of wine (if it’s low or high). Model 1 (used all veirables as independent variable and ‘quality’ as dependent variable)is more accurate from model 2 (used 'alcohol' as independent variable and ‘quality’ as dependent variable) based on the accuracy score. Model 1 isn’t perfect although it can make a good prediction. Also, I can’t say it’s a poor model with the accuracy of 72%. I can say that model 1 is good enough to predict the quality of the wine.
